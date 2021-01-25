@@ -17,8 +17,8 @@ const showTitle = () => console.log(chalk.red.bold('Bienvenue sur Discord-HypeSq
 const showCredits = () => {
     console.clear();
     showTitle();
-    console.log(chalk.green('Auteur : HaXGamiG'));
-    console.log(chalk.blue('Github : https://github.com/HaXGamiG'));
+    console.log(chalk.green('Auteur : Kazushi'));
+    console.log(chalk.blue('Auteur : Kazushi'));
 };
 
 // dev by Kazushi | Blitz Team |
