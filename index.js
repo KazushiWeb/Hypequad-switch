@@ -1,3 +1,6 @@
+
+// dev by Kazushi | Blitz Team |
+
 const fetch = require('node-fetch');
 const readline = require('readline');
 const chalk = require('chalk');
@@ -18,6 +21,8 @@ const showCredits = () => {
     console.log(chalk.blue('Github : https://github.com/HaXGamiG'));
 };
 
+// dev by Kazushi | Blitz Team |
+
 showTitle();
 console.log('Liste des maisons :');
 houses.forEach(h => console.log(chalk.hex(h.color)(`[${h.id}] ${h.name}`)));
@@ -27,6 +32,8 @@ const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout
 });
+
+// dev by Kazushi | Blitz Team |
 
 rl.question('\nNuméro de ta maison > ', async house => {
     if (house === 'credits') {
@@ -50,3 +57,6 @@ rl.question('\nNuméro de ta maison > ', async house => {
 
     rl.close();
 });
+
+
+// dev by Kazushi | Blitz Team | discord.gg/blitz
