@@ -8,5 +8,5 @@ Pour utiliser ce script, mettez simplement le token de votre compte discord dans
 
 ![preview](https://github.com/HaXGamiG/Discord-HypeSquad-Switcher/blob/main/preview.png)
 
-Made in 🇫🇷 with ❤ by HaXGamiG# HypeSquad-Switch
+Made in 🇫🇷 with ❤ by Kazushi | Blitz team
 # HypeSquad-Switch
